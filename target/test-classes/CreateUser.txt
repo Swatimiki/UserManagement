@@ -1,0 +1,6 @@
+{
+     "userId":110,
+     "firstName":"Babaji",
+     "lastName":"Charan",
+     "address":"Kolkata"
+}
